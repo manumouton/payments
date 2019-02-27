@@ -11,11 +11,12 @@ This API aims to deal with payments. It allows to:
 
 In order to start the application, simply run ``mvn spring-boot:run``
 
-The application will start on port 9000 (could be changed in the configuration file).
+The application will start on port **9000** (could be changed in the configuration file).
 
 ## API Documentation
 
 Access the Swagger UI documentation here: http://localhost:9000/swagger-ui.html 
+You can even launch a bunch of test from there.
 
 ## Service health and monitoring    
 
